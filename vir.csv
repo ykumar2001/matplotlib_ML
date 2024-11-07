@@ -1,0 +1,6 @@
+############### VIRTUAL ENVIROMENT ##################### 
+
+pip install virtualenv --> to install packages
+python -m venv myproject --> to create a new env
+pip frezee --> to check which packages are install with it version
+myenv\scripts\activate --> to activate virtaul enviroment   
